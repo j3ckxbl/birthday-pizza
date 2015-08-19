@@ -1,6 +1,5 @@
 # :birthday: :pizza: birthday.pizza :birthday: :pizza:
 
-[![Build Status](https://travis-ci.org/kevinsawicki/birthday-pizza.svg)](https://travis-ci.org/kevinsawicki/birthday-pizza)
 
 The code for http://birthday.pizza
 
@@ -14,3 +13,5 @@ npm start
 ```
 
 Then open [http://localhost:3000](http://localhost:3000) in a browser.
+
+Modified version, thank-you to /kevinsawicki/ for the original code.
